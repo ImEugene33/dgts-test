@@ -978,6 +978,81 @@
         "name": "Featured product"
       }
     },
+    "image-slider": {
+      "name": "Image Slider",
+      "settings": {
+        "heading": {
+          "label": "Heading"
+        },
+        "linklist": {
+          "label": "Linklist settings"
+        },
+        "spacings": {
+          "label": "Section spacings"
+        },
+        "heading_title": {
+          "label": "Heading name"
+        },
+        "text_color": {
+          "label": "Text color"
+        },
+        "heading_color": {
+          "label": "Heading color"
+        },
+        "bg_color_block": {
+          "label": "Background color block"
+        },
+        "padding_top": {
+          "label": "Padding top (px)"
+        },
+        "padding_bottom": {
+          "label": "Padding bottom (px)"
+        },
+        "padding_top_mobile": {
+          "label": "Padding top mobile (px)"
+        },
+        "padding_bottom_mobile": {
+          "label": "Padding bottom mobile (px)"
+        }
+      },
+      "blocks": {
+        "block": {
+          "name": "Block",
+          "settings": {
+            "image_slider": {
+              "label": "Image"
+            },
+            "title": {
+              "label": "Title"
+            },
+            "description": {
+              "label": "Description"
+            },
+            "description_top": {
+              "label": "Description top position (%)"
+            },
+            "description_left": {
+              "label": "Description left position (%)"
+            },
+            "text_color": {
+              "label": "Text color"
+            },
+            "text_alignment": {
+              "label": "Text alignment",
+              "options": {
+                "left": "Left",
+                "center": "Center",
+                "right": "Right"
+              }
+            },
+
+          }
+        }
+      },
+      "presets": {
+        "name": "Image Slider"
+      }
+    },
     "footer": {
       "name": "Footer",
       "blocks": {

@@ -1,75 +1,76 @@
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
+    "image_slider_yLMA6x": {
+      "type": "image-slider",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "block_r6neU3": {
+          "type": "block",
           "settings": {
-            "heading": "Browse our latest products",
-            "heading_size": "h0"
+            "image_slider": "shopify:\/\/shop_images\/image_69.png",
+            "title": "niacinamide",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et",
+            "description_top": 65,
+            "description_left": 36,
+            "text_color": "#ffffff",
+            "text_alignment": "center"
           }
         },
-        "button": {
-          "type": "buttons",
+        "block_gJbmjU": {
+          "type": "block",
           "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "image_slider": "shopify:\/\/shop_images\/image_69.png",
+            "title": "peptides",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et",
+            "description_top": 17,
+            "description_left": 22,
+            "text_color": "#ffffff",
+            "text_alignment": "right"
+          }
+        },
+        "block_qEnP8a": {
+          "type": "block",
+          "settings": {
+            "image_slider": "shopify:\/\/shop_images\/image_69.png",
+            "title": "hialuronic acid",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et",
+            "description_top": 82,
+            "description_left": 44,
+            "text_color": "#ffffff",
+            "text_alignment": "center"
+          }
+        },
+        "block_yBKaye": {
+          "type": "block",
+          "settings": {
+            "image_slider": "shopify:\/\/shop_images\/image_69.png",
+            "title": "Marula oil",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et",
+            "description_top": 60,
+            "description_left": 22,
+            "text_color": "#ffffff",
+            "text_alignment": "left"
           }
         }
       },
       "block_order": [
-        "heading",
-        "button"
+        "block_r6neU3",
+        "block_gJbmjU",
+        "block_qEnP8a",
+        "block_yBKaye"
       ],
       "settings": {
-        "image_overlay_opacity": 40,
-        "image_height": "large",
-        "image_behavior": "none",
-        "desktop_content_position": "bottom-center",
-        "desktop_content_alignment": "center",
-        "show_text_box": false,
-        "color_scheme": "scheme-3",
-        "stack_images_on_mobile": false,
-        "mobile_content_alignment": "center",
-        "show_text_below": false
-      }
-    },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "all",
-        "products_to_show": 8,
-        "title": "Featured products",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "columns_desktop": 4,
-        "enable_desktop_slider": false,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "color_scheme": "scheme-1",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 44,
-        "padding_bottom": 36
+        "heading": "no bullshit inside",
+        "text_color": "#ffffff",
+        "heading_color": "#231f20",
+        "bg_color_block": "#58656f",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "padding_top_mobile": 40,
+        "padding_bottom_mobile": 40
       }
     }
   },
   "order": [
-    "image_banner",
-    "featured_collection"
+    "image_slider_yLMA6x"
   ]
 }
